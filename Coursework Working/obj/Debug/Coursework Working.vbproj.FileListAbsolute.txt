@@ -1,0 +1,66 @@
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\ApplicationInsights.config
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\csc.exe
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\csc.exe.config
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\csc.rsp
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\csi.exe
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\csi.rsp
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.AppContext.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.Collections.Immutable.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.IO.FileSystem.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\System.Reflection.Metadata.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\vbc.exe
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\vbc.exe.config
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\vbc.rsp
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\VBCSCompiler.exe
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\roslyn\VBCSCompiler.exe.config
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Coursework Working.dll.config
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Coursework Working.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Coursework Working.pdb
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\WebForms_Basic.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Antlr3.Runtime.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\AspNet.ScriptManager.bootstrap.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\AspNet.ScriptManager.jQuery.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.DependencyCollector.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.Web.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.WindowsServer.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.ApplicationInsights.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AspNet.FriendlyUrls.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.ScriptManager.MSAjax.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.ScriptManager.WebForms.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.Web.Infrastructure.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Newtonsoft.Json.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\System.Web.Optimization.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\WebGrease.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\System.Web.Optimization.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Antlr3.Runtime.pdb
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AspNet.FriendlyUrls.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Newtonsoft.Json.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.ApplicationInsights.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.DependencyCollector.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.WindowsServer.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\bin\Microsoft.AI.Web.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\Coursework Working.vbprojResolveAssemblyReference.cache
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\Coursework_Working.Resources.resources
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\Coursework Working.vbproj.GenerateResource.Cache
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\Coursework Working.dll
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\WebForms_Basic.xml
+W:\Visual Studio 2017\Projects\Coursework Working\Coursework Working\obj\Debug\Coursework Working.pdb
